@@ -1,0 +1,5 @@
+{
+    "endpoint":"https://speech-kws.ozonetel.com/embeddings/text/get_embeddings/",
+    "username":"",
+    "bearer_token":""
+}
