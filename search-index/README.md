@@ -1,7 +1,4 @@
-# Ozonetel AI
-This library provides a demonstration of different AI applications and their capabilities. It offers a collection of implementations showcasing various AI techniques and frameworks. Each implementation focuses on a specific application and highlights its unique features and functionalities.
-
-## Indexing and Searching
+# Indexing and Searching
 Implementation focuses on a specific library and showcases its capabilities for Search and Indexing applications.
 
 ### Setup Step by Step:
@@ -28,4 +25,3 @@ Implementation focuses on a specific library and showcases its capabilities for 
 - To explore the Milvus implementation, refer to the IPython notebook file: `Text Indexing using OzoneAI Embeding Milvus.ipynb`.
 
 Note: These implementations are provided for experimental purposes and may not cover all advanced features or optimizations available in the libraries.
-
