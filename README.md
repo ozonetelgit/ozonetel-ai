@@ -14,7 +14,7 @@ Implementation focuses on a specific library and showcases its capabilities for 
 
 #### Numpy Implementation
 - The Numpy implementation illustrates how to perform indexing and searching using the Numpy library, a fundamental package for experimentation.
-- Easy to understand and great to make you hand dirty to play with small datasets
+- Easy to understand and great to make you hand dirty to play with small datasets (~1 Million Embeddings)
 - To explore the Numpy implementation, refer to the IPython notebook file: `Text Indexing using OzoneAI Embeding Numpy.ipynb`.
 
 #### Faiss Implementation
